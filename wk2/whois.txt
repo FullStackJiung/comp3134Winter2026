@@ -1,0 +1,268 @@
+========================= domain 1 =========================
+
+canada.ca
+
+Registrar Information
+Registrar
+Authentic Web Inc.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+authenticweb.com
+Important Dates
+Created
+11/25/2002
+Updated
+10/30/2025
+Expires
+10/16/2026
+Nameservers
+Hostname	IP Address
+ns1.d-zone.ca	162.219.54.2
+ns2.d-zone.ca	162.219.55.2
+ns10.ent.global.gc.ca	160.106.110.27
+ns11.ent.global.gc.ca	160.106.110.28
+ns40.ent.global.gc.ca	167.43.252.27
+ns41.ent.global.gc.ca	167.43.252.28
+Domain Status
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Contact Information
+Registrant Contact
+Name
+Geoff Worthing
+Organization
+Shared Services Canada
+Address
+Ottawa, ON
+CA
+Phone
++1.6136978032
+Email
+registry [at] gc [dot] ca
+Admin Contact
+Name
+Geoff Worthing
+Organization
+Shared Services Canada
+Address
+Ottawa, ON
+CA
+Phone
++1.6136978032
+Email
+registry [at] gc [dot] ca
+Tech Contact
+Name
+Michelle Saunders
+Organization
+Shared Services Canada
+Address
+Ottawa, ON
+CA
+Phone
++1.6133010722
+Email
+registry [at] gc [dot] ca
+
+========================= domain 2 =========================
+
+naver.com
+
+Registrar Information
+Registrar
+Gabia, Inc.
+WHOIS Server
+whois.gabia.com
+Referral URL
+http://www.gabia.com
+Important Dates
+Created
+9/12/1997
+Updated
+10/22/2025
+Expires
+9/11/2032
+Nameservers
+Hostname	IP Address
+ns1.naver.com	61.247.220.6
+ns2.naver.com	61.247.221.6
+ns3.naver.com	211.188.44.6
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+
+========================= domain 3 =========================
+
+github.com
+
+Registrar Information
+Registrar
+MarkMonitor Inc.
+WHOIS Server
+whois.markmonitor.com
+Referral URL
+http://www.markmonitor.com
+Important Dates
+Created
+10/9/2007
+Updated
+9/7/2024
+Expires
+10/9/2026
+Nameservers
+Hostname	IP Address
+dns1.p08.nsone.net	198.51.44.8
+dns2.p08.nsone.net	198.51.45.8
+dns3.p08.nsone.net	198.51.44.72
+dns4.p08.nsone.net	198.51.45.72
+ns-520.awsdns-01.net	205.251.194.8
+ns-421.awsdns-52.com	205.251.193.165
+ns-1707.awsdns-21.co.uk	205.251.198.171
+ns-1283.awsdns-32.org	205.251.197.3
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Contact Information
+Registrant Contact
+Organization
+GitHub, Inc.
+Address
+US
+Email
+Select Request Email Form at https://domains [dot] markmonitor [dot] com/whois/github [dot] com
+Tech Contact
+Email
+Select Request Email Form at https://domains [dot] markmonitor [dot] com/whois/github [dot] com
+
+========================= domain 4 =========================
+
+condos.ca
+
+Registrar Information
+Registrar
+Rebel.ca Corp.
+WHOIS Server
+whois.ca.fury.ca
+Referral URL
+www.rebel.ca
+Important Dates
+Created
+9/27/2000
+Updated
+7/30/2021
+Expires
+5/14/2030
+Nameservers
+Hostname	IP Address
+evan.ns.cloudflare.com	108.162.193.165
+fay.ns.cloudflare.com	108.162.192.115
+Domain Status
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Contact Information
+Registrant Contact
+Name
+Condos.ca Inc
+Address
+St. Peter, NA
+BB
+Phone
++1.8666207111
+Fax
++1.4163521740
+Email
+0GGX2PIN9JWJ9NRN [at] privacyhero [dot] company
+Admin Contact
+Name
+Kyle Rocheleau
+Organization
+Privacy Hero Inc.
+Address
+St. Peter, NA
+BB
+Phone
++1.8666207111
+Fax
++1.4163521740
+Email
+0GGX2PIN9JWJ9NRN [at] privacyhero [dot] company
+Tech Contact
+Name
+Kyle Rocheleau
+Organization
+Privacy Hero Inc.
+Address
+St. Peter, NA
+BB
+Phone
++1.8666207111
+Fax
++1.4163521740
+Email
+0GGX2PIN9JWJ9NRN [at] privacyhero [dot] company
+
+========================= domain 5 =========================
+
+microsoft.com
+
+Registrar Information
+Registrar
+MarkMonitor Inc.
+WHOIS Server
+whois.markmonitor.com
+Referral URL
+http://www.markmonitor.com
+Important Dates
+Created
+5/2/1991
+Updated
+4/1/2025
+Expires
+5/3/2026
+Nameservers
+Hostname	IP Address
+ns1-39.azure-dns.com	150.171.10.39
+ns2-39.azure-dns.net	150.171.16.39
+ns3-39.azure-dns.org	13.107.222.39
+ns4-39.azure-dns.info	13.107.206.39
+Domain Status
+clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Contact Information
+Registrant Contact
+Name
+Domain Administrator
+Organization
+Microsoft Corporation
+Address
+Redmond, WA
+US
+Phone
++1.4258828080
+Fax
++1.4259367329
+Email
+admin [at] domains [dot] microsoft
+Tech Contact
+Name
+MSN Hostmaster
+Phone
++1.4258828080
+Email
+msnhst [at] microsoft [dot] com

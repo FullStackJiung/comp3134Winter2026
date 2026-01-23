@@ -1,0 +1,15 @@
+
+Tracing route to 138.197.130.4 over a maximum of 30 hops
+
+  1    14 ms     5 ms     5 ms  10.4.96.1
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     6 ms     6 ms     5 ms  138.197.130.4
+
+Trace complete.

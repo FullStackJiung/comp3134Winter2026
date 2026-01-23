@@ -1,0 +1,54 @@
+========================= domain 1 =========================
+
+apple.com
+
+IP Address (IPv4): 17.253.144.10
+Country: United States
+Region: California
+City: San Jose
+ISP / Organization: Apple Inc.
+AS Number: AS714
+
+========================= domain 2 =========================
+
+netflix.com
+
+IP Address (IPv4): 52.214.181.141
+Country: Ireland
+Region: Leinster
+City: Dublin
+ISP / Organization: Amazon.com Inc.
+AS Number: AS16509
+
+========================= domain 3 =========================
+
+openai.com
+
+IP Address (IPv4): 104.18.33.45
+Country: United States
+Region: California
+City: San Jose
+ISP / Organization: Cloudflare
+AS Number: AS13335
+
+========================= domain 4 =========================
+
+amazon.com
+
+IP Address (IPv4): 98.87.170.74
+Country: United States
+Region: Virginia
+City: Ashburn
+ISP / Organization: Amazon.com Inc.
+AS Number: AS14618
+
+========================= domain 5 =========================
+
+samsung.com
+
+IP Address (IPv4): 211.45.27.231
+Country: South Korea
+Region: Seoul
+City: Seoul
+ISP / Organization: Samsung SDS
+AS Number: AS6619
