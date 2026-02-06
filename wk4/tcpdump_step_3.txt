@@ -1,0 +1,26 @@
+COMMAND: tcpdump -c 20
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:40:33.652993 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 551978831:551978867, ack 1713943663, win 512, length 36
+21:40:33.653178 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 1:37, ack 36, win 481, length 36
+21:40:33.683923 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 36:72, ack 37, win 512, length 36
+21:40:33.684084 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 37:73, ack 72, win 481, length 36
+21:40:33.715512 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 72:108, ack 73, win 512, length 36
+21:40:33.715677 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 73:109, ack 108, win 481, length 36
+21:40:33.746194 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 108:144, ack 109, win 512, length 36
+21:40:33.746370 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 109:145, ack 144, win 481, length 36
+21:40:33.777672 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 144:180, ack 145, win 512, length 36
+21:40:33.777862 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 145:181, ack 180, win 481, length 36
+21:40:33.809047 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 180:216, ack 181, win 511, length 36
+21:40:33.809219 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 181:217, ack 216, win 481, length 36
+21:40:33.840290 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 216:252, ack 217, win 511, length 36
+21:40:33.840512 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 217:253, ack 252, win 481, length 36
+21:40:33.871679 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 252:288, ack 253, win 511, length 36
+21:40:33.871883 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 253:289, ack 288, win 481, length 36
+21:40:33.904019 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 288:324, ack 289, win 511, length 36
+21:40:33.904183 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 289:325, ack 324, win 481, length 36
+21:40:33.934537 IP 198.96.85.106.55421 > comp3134-Winter2026.ssh: Flags [P.], seq 324:360, ack 325, win 511, length 36
+21:40:33.934738 IP comp3134-Winter2026.ssh > 198.96.85.106.55421: Flags [P.], seq 325:361, ack 360, win 481, length 36
+20 packets captured
+81 packets received by filter
+0 packets dropped by kernel

@@ -1,0 +1,26 @@
+COMMAND: tcpdump -c 20 port 53
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:42:56.165097 IP comp3134-Winter2026.56433 > 67.207.67.2.domain: 23060+ [1au] A? google.com. (39)
+21:42:56.165149 IP comp3134-Winter2026.43902 > 67.207.67.2.domain: 39914+ [1au] A? google.com. (39)
+21:42:56.165301 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [S], seq 439172806, win 64240, options [mss 1460,sackOK,TS val 2018315412 ecr 0,nop,wscale 7,tfo  cookiereq,nop,nop], length 0
+21:42:56.165472 IP comp3134-Winter2026.53544 > 67.207.67.2.domain: 43204+ [1au] AAAA? google.com. (39)
+21:42:56.165517 IP comp3134-Winter2026.56133 > 67.207.67.2.domain: 31613+ [1au] AAAA? google.com. (39)
+21:42:56.166241 IP 67.207.67.3.domain > comp3134-Winter2026.35518: Flags [S.], seq 723603735, ack 439172807, win 65160, options [mss 1460,sackOK,TS val 422683340 ecr 2018315412,nop,wscale 10], length 0
+21:42:56.166294 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [.], ack 1, win 502, options [nop,nop,TS val 2018315413 ecr 422683340], length 0
+21:42:56.166392 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [P.], seq 1:31, ack 1, win 502, options [nop,nop,TS val 2018315414 ecr 422683340], length 30 40250+ A? google.com. (28)
+21:42:56.166419 IP 67.207.67.2.domain > comp3134-Winter2026.53544: 43204 4/0/1 AAAA 2607:f8b0:4023:1807::8a, AAAA 2607:f8b0:4023:1807::71, AAAA 2607:f8b0:4023:1807::66, AAAA 2607:f8b0:4023:1807::8b (151)
+21:42:56.166420 IP 67.207.67.2.domain > comp3134-Winter2026.56433: 23060 6/0/1 A 142.250.137.113, A 142.250.137.101, A 142.250.137.100, A 142.250.137.102, A 142.250.137.138, A 142.250.137.139 (135)
+21:42:56.166439 IP 67.207.67.2.domain > comp3134-Winter2026.56133: 31613 1/0/1 AAAA 2607:f8b0:4020:803::200e (67)
+21:42:56.166463 IP 67.207.67.2.domain > comp3134-Winter2026.43902: 39914 6/0/1 A 142.250.139.102, A 142.250.139.100, A 142.250.139.113, A 142.250.139.138, A 142.250.139.101, A 142.250.139.139 (135)
+21:42:56.166473 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [P.], seq 31:61, ack 1, win 502, options [nop,nop,TS val 2018315414 ecr 422683340], length 30 363+ AAAA? google.com. (28)
+21:42:56.166542 IP 67.207.67.3.domain > comp3134-Winter2026.35518: Flags [.], ack 31, win 64, options [nop,nop,TS val 422683340 ecr 2018315414], length 0
+21:42:56.166618 IP 67.207.67.3.domain > comp3134-Winter2026.35518: Flags [.], ack 61, win 64, options [nop,nop,TS val 422683340 ecr 2018315414], length 0
+21:42:56.166766 IP 67.207.67.3.domain > comp3134-Winter2026.35518: Flags [P.], seq 1:127, ack 61, win 64, options [nop,nop,TS val 422683340 ecr 2018315414], length 126 40250 6/0/0 A 64.233.178.139, A 64.233.178.100, A 64.233.178.113, A 64.233.178.102, A 64.233.178.138, A 64.233.178.101 (124)
+21:42:56.166776 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [.], ack 127, win 502, options [nop,nop,TS val 2018315414 ecr 422683340], length 0
+21:42:56.166787 IP 67.207.67.3.domain > comp3134-Winter2026.35518: Flags [P.], seq 127:185, ack 61, win 64, options [nop,nop,TS val 422683340 ecr 2018315414], length 58 363 1/0/0 AAAA 2607:f8b0:4020:803::200e (56)
+21:42:56.166791 IP comp3134-Winter2026.35518 > 67.207.67.3.domain: Flags [.], ack 185, win 502, options [nop,nop,TS val 2018315414 ecr 422683340], length 0
+21:42:56.170514 IP comp3134-Winter2026.41820 > 67.207.67.2.domain: 31143+ [1au] PTR? 113.137.250.142.in-addr.arpa. (57)
+20 packets captured
+44 packets received by filter
+0 packets dropped by kernel

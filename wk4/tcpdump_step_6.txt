@@ -1,0 +1,15 @@
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+21:52:53.106548 IP comp3134-Winter2026 > lcyyzn-in-f101.1e100.net: ICMP echo request, id 36194, seq 1, length 64
+21:52:53.108793 IP lcyyzn-in-f101.1e100.net > comp3134-Winter2026: ICMP echo reply, id 36194, seq 1, length 64
+21:52:54.108097 IP comp3134-Winter2026 > lcyyzn-in-f101.1e100.net: ICMP echo request, id 36194, seq 2, length 64
+21:52:54.109647 IP lcyyzn-in-f101.1e100.net > comp3134-Winter2026: ICMP echo reply, id 36194, seq 2, length 64
+21:52:55.109890 IP comp3134-Winter2026 > lcyyzn-in-f101.1e100.net: ICMP echo request, id 36194, seq 3, length 64
+21:52:55.111470 IP lcyyzn-in-f101.1e100.net > comp3134-Winter2026: ICMP echo reply, id 36194, seq 3, length 64
+21:52:56.111748 IP comp3134-Winter2026 > lcyyzn-in-f101.1e100.net: ICMP echo request, id 36194, seq 4, length 64
+21:52:56.113279 IP lcyyzn-in-f101.1e100.net > comp3134-Winter2026: ICMP echo reply, id 36194, seq 4, length 64
+21:53:25.061555 IP comp3134-Winter2026 > 178.62.221.97: ICMP comp3134-Winter2026 tcp port ssh unreachable, length 68
+21:54:22.872907 IP comp3134-Winter2026 > 178.62.221.97: ICMP comp3134-Winter2026 tcp port ssh unreachable, length 68
+10 packets captured
+10 packets received by filter
+0 packets dropped by kernel
