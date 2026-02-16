@@ -1,0 +1,2 @@
+sudo systemctl restart ssh
+ssh -p 2222 root@138.197.130.4
