@@ -1,0 +1,7 @@
+1. When I type a valid English word in the form, the site shows the meaning of the word.
+
+2. When I type an invalid word in the URL after /browse/, the site does not show a normal definition page.
+
+3. When I type <script>alert(%27hello%27)</script> in the form, the script does not run.
+
+4. When I type <script>alert(%27hello%27)</script> in the URL, the script does not run there either.

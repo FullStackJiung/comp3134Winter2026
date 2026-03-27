@@ -1,0 +1,3 @@
+strip_tags() removes tags.
+
+htmlspecialchars() changes special characters into safe text, so the tags are shown instead of executed.
