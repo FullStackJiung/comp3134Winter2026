@@ -1,0 +1,3 @@
+I will remove HTML comments from the page source.
+
+I will use PHP comments instead, because users cannot see them in the browser source.

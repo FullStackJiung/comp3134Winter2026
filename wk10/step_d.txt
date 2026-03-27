@@ -1,0 +1,7 @@
+When I open directory_traversal_part1.php?q=hello, it shows a warning because the folder does not exist.
+
+Problem:
+The program does not check if the input folder is valid.
+
+Sensitive information exposed:
+It shows the server path and error message.

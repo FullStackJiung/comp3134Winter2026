@@ -1,0 +1,7 @@
+When I open directory_traversal_part1.php?q=%2e%2e%2f, it still works with encoded characters.
+
+Problem:
+The program does not block encoded traversal input.
+
+Sensitive information exposed:
+It can still show server folders that should not be visible.

@@ -1,0 +1,7 @@
+When I open directory_traversal_part1.php?q=../../, I can see folders outside the current directory.
+
+Problem:
+This is a directory traversal issue.
+
+Sensitive information exposed:
+It shows other folder names on the server.

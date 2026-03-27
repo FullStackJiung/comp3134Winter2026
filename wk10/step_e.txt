@@ -1,0 +1,5 @@
+I used basename() to stop users from going outside the current folder.
+
+I used file_exists() and is_dir() to check if the folder is real before opening it.
+
+I also blocked file names, so only folders can be used.
