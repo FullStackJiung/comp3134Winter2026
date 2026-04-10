@@ -1,0 +1,7 @@
+1. The content in storedxss.txt is printed directly without being sanitized.
+
+2. Because of that, the script can run automatically in the browser.
+
+3. This could redirect the user to another page or run other malicious JavaScript.
+
+4. This is a Stored XSS issue because the harmful script is coming from stored file content.

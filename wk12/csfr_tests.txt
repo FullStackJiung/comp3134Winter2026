@@ -1,0 +1,5 @@
+1. When I used csfr_form.php, the login worked normally because the confirmation value in the form matched the session value.
+
+2. When I opened csfr.html for the protected version, the request was blocked because there was no valid confirmation value sent with the form.
+
+3. From this test, I noticed that using a session confirmation value helps prevent forged form submissions.

