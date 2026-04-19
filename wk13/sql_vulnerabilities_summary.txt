@@ -1,0 +1,49 @@
+SQL Vulnerabilities Summary
+
+Step G - Testing getusers_1.php
+
+1) Input: Ben
+
+Observation:
+The page returned only the row where firstname is Ben and active is 1.
+This was expected because the SQL query searched for firstname = 'Ben' and active = 1.
+The row where firstname is Ben and active = 0 was not shown.
+
+2) Input: Ben'-- 
+
+Observation:
+The page returned more data than expected.
+This happened because the single quote closed the firstname string and the double dash commented out the rest of the SQL query.
+As a result, the active = 1 condition was ignored.
+This shows that getusers_1.php is vulnerable to SQL injection.
+
+3) Input: Ben' or 1=1 
+
+Observation:
+The page returned many or all rows from the table.
+This happened because the OR 1=1 condition made the WHERE clause true.
+The user input was inserted directly into the SQL query without protection.
+This confirms that getusers_1.php is vulnerable to SQL injection.
+
+Step H - Testing getusers_2.php with Prepared Statements
+
+1) Input: Ben
+
+Observation:
+The correct row where firstname is Ben and active = 1 was returned.
+This is the expected result.
+
+2) Input: Ben'-- 
+
+Observation:
+No SQL injection occurred.
+The input was treated as normal text instead of part of the SQL query.
+The active = 1 condition was not bypassed.
+
+3) Input: Ben' or 1=1 
+
+Observation:
+No SQL injection occurred.
+The input was treated as a normal string value.
+The query did not return all rows.
+Prepared statements successfully mitigated the SQL injection vulnerability.
